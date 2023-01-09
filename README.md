@@ -2,10 +2,6 @@
 <h3 align="center">A passionate Full-Stack developer from Spain</h3>
 
 ## <p align="center"> Never trust a computer if you can't throw out the window </p> 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaxPrain12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxPrain12&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 ## <p align="center"> RRSS & Contact </p> 
 
